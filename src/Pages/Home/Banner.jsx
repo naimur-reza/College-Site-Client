@@ -3,7 +3,7 @@ import React from "react";
 const Banner = () => {
   return (
     <div
-      className="hero min-h-[600px]"
+      className="hero min-h-[100vh]"
       style={{
         backgroundImage:
           "url(https://img.freepik.com/free-photo/two-happy-students-with-backpacks-books-their-hands-smiling-camera_8353-6384.jpg?w=740&t=st=1690213668~exp=1690214268~hmac=62ab59a3fc6509132be666455a4e0a44dc73d78ddacc9673ad68206650eb9009)",

@@ -2,7 +2,7 @@ import React from "react";
 
 const Galary = () => {
   return (
-    <div className="bg-lime-100">
+    <div className="bg-black/40">
       <h1 className="text-center font-thin px-8 py-8 text-5xl text-green-700">
         College Photo Gallary
       </h1>

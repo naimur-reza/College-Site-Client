@@ -12,11 +12,11 @@ const Colleges = () => {
   }, []);
   console.log(colleges);
   return (
-    <div className="bg-lime-200">
+    <div className="bg-black/30">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 place-items-center justify-items-center">
         {colleges?.map((college) => (
           <div key={college._id}>
-            <div className="card m-5 lg:card-side bg-orange-100 shadow-xl w-full">
+            <div className="card m-5 lg:card-side bg-black/60 shadow-xl w-full">
               <figure>
                 <img
                   className="w-3/4"

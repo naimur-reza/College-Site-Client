@@ -28,7 +28,7 @@ const Navbar = () => {
       .catch((error) => console.log(error));
   };
   return (
-    <div className="navbar text-white font-serif bg-gray-500">
+    <div className="navbar text-white font-serif bg-black/40 ">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
