@@ -1,0 +1,68 @@
+[
+    {
+      "college_name": "Example University",
+      "college_rating": 4.5,
+      "admission_date": "2023-09-01",
+      "research_count": 120,
+      "details": {
+        "events_facilities": ["Annual Fest", "Seminars", "Workshops"],
+        "sports_facilities": ["Basketball Court", "Football Field", "Swimming Pool"]
+      },
+      "college_image": ""
+    },
+    {
+      "college_name": "Sample College",
+      "college_rating": 3.8,
+      "admission_date": "2023-08-15",
+      "research_count": 80,
+      "details": {
+        "events_facilities": ["Cultural Night", "Debates", "Music Concerts"],
+        "sports_facilities": ["Tennis Courts", "Athletics Track", "Gym"]
+      },
+      "college_image": ""
+    },
+    {
+      "college_name": "University of Excellence",
+      "college_rating": 4.9,
+      "admission_date": "2023-09-10",
+      "research_count": 150,
+      "details": {
+        "events_facilities": ["Science Fair", "Hackathons", "Drama Competitions"],
+        "sports_facilities": ["Cricket Ground", "Badminton Courts", "Table Tennis"]
+      },
+      "college_image": "https://i.ibb.co/JvK1WP0/educational-objects-assortment-close-up.jpg"
+    },
+    {
+      "college_name": "ABC Institute",
+      "college_rating": 4.2,
+      "admission_date": "2023-08-25",
+      "research_count": 90,
+      "details": {
+        "events_facilities": ["Literary Festival", "Career Fair", "Fashion Show"],
+        "sports_facilities": ["Volleyball Court", "Rugby Field", "Yoga Studio"]
+      },
+      "college_image": "https://i.ibb.co/7v6CMqz/front-view-lightbulb-with-academic-cap-copy-space.jpg"
+    },
+    {
+      "college_name": "Global College",
+      "college_rating": 3.7,
+      "admission_date": "2023-09-05",
+      "research_count": 70,
+      "details": {
+        "events_facilities": ["Food Fest", "Art Exhibition", "Film Festival"],
+        "sports_facilities": ["Hockey Field", "Squash Courts", "Fitness Center"]
+      },
+      "college_image": "https://i.ibb.co/PCGnCss/high-angle-globe-with-academic-cap-laptop.jpg"
+    },
+    {
+      "college_name": "Best University",
+      "college_rating": 4.8,
+      "admission_date": "2023-08-20",
+      "research_count": 130,
+      "details": {
+        "events_facilities": ["Tech Conference", "Leadership Workshops", "Comedy Nights"],
+        "sports_facilities": ["Golf Course", "Chess Club", "Cycling Track"]
+      },
+      "college_image": ""
+    }
+  ]
